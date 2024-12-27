@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **any Full stack project**
 
-- 👨‍💻 All of my projects are available at <a href="[https://ayush-aps.github.io/My-Portfolio/](https://ayush-aps.github.io/My-Portfolio/)">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://ayush-aps.github.io/My-Portfolio/">Portfolio</a>
 
 - 💬 Ask me about **Full stack development**
 
 - 📫 How to reach me **ausingh2020@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1XgqFSkCbZP9us7I2vu0ndbFctGGoqGSo/view?usp=sharing](https://drive.google.com/file/d/1XgqFSkCbZP9us7I2vu0ndbFctGGoqGSo/view?usp=sharing)">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1XgqFSkCbZP9us7I2vu0ndbFctGGoqGSo/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
