@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **any Full stack project**
 
-- 👨‍💻 All of my projects are available at <a href="https://ayush-aps.github.io/My-Portfolio/">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://ayush-portfolio-teal-one.vercel.app/">Portfolio</a>
 
 - 💬 Ask me about **Full stack development**
 
